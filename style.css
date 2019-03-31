@@ -1,0 +1,174 @@
+h1 h2 p li{
+	font-family: arial;
+	text-align: center;
+	color: white;
+}
+
+h1{
+	text-align: center;
+	color: white;
+}
+
+h2{
+	text-align: center;
+	color: white;
+}
+
+#foto{
+	width: 200px;
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+    bottom: 0;
+    border-radius: 600px;
+}
+body{
+	margin: 100px;
+	font-family: arial;
+	font-size: 105px;
+
+	background-image: url("moon.jpg") !important;
+	background-color: black !important ; 
+	background-repeat: no-repeat;
+	background-size: 75%;
+	background-position: top,center;
+	padding-bottom: 200px;
+}
+
+
+
+#navbar ul{
+	list-style: none;
+	padding-right: 600px;
+
+}
+
+#navbar ul li {
+	display: inline;
+	
+}
+
+#navbar ul li a{
+	padding: 10px 10px;
+	display: inline-block;
+	
+	color: white;
+	text-decoration: none;
+}
+
+#navbar ul li a:houver{
+	color: red;
+}
+
+#topico{
+	display: block;
+}
+
+
+#inicio h1 h2{
+	color: white;
+}
+
+#inicio{
+	padding-top: 150px;
+}
+
+
+
+.container{
+	padding-top: 70px;
+	background-color: rgba(255,255,255,35%);
+	border-radius: 100px;
+	width: 640px !important;
+	height: 850px;
+	margin-top: 100px;
+
+
+}
+
+.col-md-4 {
+	position: relative;
+	height: 250px;
+	display: block;
+    margin-left: auto;
+    margin-right: auto;	
+
+
+}
+
+#Sobre p{
+ 	text-align: center;
+ 	color: white;
+ 	font-size: 16px;
+	
+}
+
+#Sobre h2{
+ 	text-align: center;
+ 	color: white;
+ 	
+	
+}
+
+#Portifólio{
+	padding-top: 140px;
+}
+
+#Portifólio p {
+	text-align: center;
+	color: white;
+ 	font-size: 16px;	
+}
+
+#Portifólio h2{
+	text-align: center;
+	color: white;
+ 	
+}
+
+
+#contato{
+	padding-top: 85px;
+}
+
+#contato h2{
+	text-align: center;
+	color: white;
+}
+
+#contato ul li {
+	list-style: none;
+	text-align: center;
+	color: white;
+ 	font-size: 16px;
+}
+
+.footer{
+	background-color: rgb(52,58,64);
+	
+	clear: both;
+	margin-top: 100px;
+	height: 40px;
+	bottom: 0;
+	left: 0;
+	width: 100%;
+	text-align: center;
+	color: white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
